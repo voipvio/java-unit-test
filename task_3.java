@@ -1,5 +1,5 @@
-    @RunWith(Parameterized.class)
-    public class CheckIsAdultTest {
+@RunWith(Parameterized.class)
+public class CheckIsAdultTest {
 	
   private final int age;
   private final boolean result;
